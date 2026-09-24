@@ -13,7 +13,7 @@
  * - Long-form videos:     public/videos/long-01.mp4, long-02.mp4, etc.
  * - Long-form thumbs:     public/thumbnails/long-01.jpg, long-02.jpg, etc.
  * - Brand logos (SVG):    public/logos/brand-01.svg, brand-02.svg, etc.
- * - Profile photo:        public/images/profile.jpg
+ * - Profile photo:        public/images/my-profile-photo.jpeg
  * 
  * Note: If an asset file is not yet placed, the site automatically displays
  * an elegant cinematic slate placeholder so it never breaks or shows broken icons!
@@ -32,7 +32,7 @@ const portfolioData = {
     // Replace with your real email and phone number:
     email: "nareshkumard009@gmail.com",
     phone: "+91 9177421780",
-    profileImage: "public/images/profile.jpg",
+    profileImage: "public/images/my-profile-photo.jpeg",
     fallbackProfileImage: "public/images/placeholder-profile.svg",
     socials: {
       behance: "https://www.behance.net/nareshkumar01",
